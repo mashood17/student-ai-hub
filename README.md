@@ -4,7 +4,7 @@ Student AI Hub is a comprehensive platform designed to empower students with AI-
 
 **Deployed Link:** [https://frontend-k5qm.onrender.com/](https://frontend-k5qm.onrender.com/)
 
----
+----
 
 ## 🚀 Features
 
